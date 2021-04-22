@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WL2+uqvG/5GuBsFGSHoCMSsq5jv1qkJOXzxKRbIdHWqZjCdbexu46Fu/C0KW++byAynYCAPG0AbOZAxJW5d6eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gh267\\source\\repos\\Assignment10Test\\Assignment10Test\\Assignment10Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gh267\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\gh267\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

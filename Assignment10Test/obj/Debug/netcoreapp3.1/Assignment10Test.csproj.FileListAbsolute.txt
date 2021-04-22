@@ -1,0 +1,15 @@
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\bin\Debug\netcoreapp3.1\Assignment10Test.deps.json
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\bin\Debug\netcoreapp3.1\Assignment10Test.runtimeconfig.json
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\bin\Debug\netcoreapp3.1\Assignment10Test.runtimeconfig.dev.json
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\bin\Debug\netcoreapp3.1\Assignment10Test.dll
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\bin\Debug\netcoreapp3.1\Assignment10Test.pdb
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\obj\Debug\netcoreapp3.1\Assignment10Test.csprojAssemblyReference.cache
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\obj\Debug\netcoreapp3.1\Assignment10Test.AssemblyInfoInputs.cache
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\obj\Debug\netcoreapp3.1\Assignment10Test.AssemblyInfo.cs
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\obj\Debug\netcoreapp3.1\Assignment10Test.csproj.CopyComplete
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\obj\Debug\netcoreapp3.1\Assignment10Test.dll
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\obj\Debug\netcoreapp3.1\Assignment10Test.pdb
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\obj\Debug\netcoreapp3.1\Assignment10Test.genruntimeconfig.cache
+C:\Users\gh267\source\repos\Assignment10Test\Assignment10Test\obj\Debug\netcoreapp3.1\Assignment10Test.csproj.CoreCompileInputs.cache
